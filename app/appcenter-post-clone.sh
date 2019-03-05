@@ -9,7 +9,7 @@ then
     exit
 fi
 
-ANDROID_MANIFEST_FILE=$APPCENTER_SOURCE_DIRECTORY/VSACandroid/app/src/main/AndroidManifest.xml
+ANDROID_MANIFEST_FILE=$APPCENTER_SOURCE_DIRECTORY/app/src/main/AndroidManifest.xml
 
 if [ -e "$ANDROID_MANIFEST_FILE" ]
 then
