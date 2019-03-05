@@ -1,16 +1,12 @@
 #!/usr/bin/env bash
-# Node setup
 
 set -ex
 
  
-
 # Set build number
 
 
-
 echo "build id" 
-
 echo $APPCENTER_BUILD_ID
 
 
