@@ -68,5 +68,4 @@ fi
 
 
 echo "new build id" 
-
 echo $APPCENTER_BUILD_ID
