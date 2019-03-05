@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-
- 
-
 # Node setup
 
 set -ex
